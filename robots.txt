@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sadekar-onkar.github.io/al-folio/sitemap.xml
+Sitemap: https://sadekar-onkar.github.io/sitemap.xml
